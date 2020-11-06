@@ -338,11 +338,6 @@ c-26 -22 -39 -54 -39 -85c0 -24 8 -47 24 -67l87 -104c2 -3 3 -5 3 -8c0 -7 -7 -14 -
 <path transform="scale(0.0040, -0.0040)" d="M208 319c21 13 42 27 57 47c11 15 18 32 25 49c4 9 20 7 20 -7v-256h68c9 0 13 -7 13 -14s-4 -13 -13 -13h-68v-16c0 -45 26 -88 68 -88c7 0 10 -5 10 -10s-3 -11 -10 -11c-41 0 -82 13 -123 13s-82 -13 -123 -13c-7 0 -10 6 -10 11s3 10 10 10c42 0 68 43 68 88v16h-173
 c-21 0 -29 13 -29 21c0 2 1 5 2 6c81 96 146 208 146 333c0 10 7 18 15 15c22 -7 44 -13 67 -13s45 6 67 13c12 4 21 -8 15 -15l-283 -333h173v147c0 8 2 16 8 20z" fill="currentColor"/>
 </g>
-<g transform="translate(2.5750, 41.7442)">
-<text font-family="serif" font-size="1.7463" text-anchor="start" fill="currentColor">
-<tspan>3</tspan>
-</text>
-</g>
 <g transform="translate(4.4633, 44.3384)">
 <text font-family="sans-serif" font-weight="bold" font-size="1.9599" text-anchor="start" fill="currentColor">
 <tspan>T</tspan>
@@ -575,11 +570,6 @@ c-21 0 -29 13 -29 21c0 2 1 5 2 6c81 96 146 208 146 333c0 10 7 18 15 15c22 -7 44 
 </g>
 <g transform="translate(20.8962, 62.0909)">
 <rect x="-0.0490" y="3.0998" width="0.0980" height="2.6978" ry="0.0250" fill="currentColor"/>
-</g>
-<g transform="translate(2.5750, 58.7819)">
-<text font-family="serif" font-size="1.7463" text-anchor="start" fill="currentColor">
-<tspan>8</tspan>
-</text>
 </g>
 <g transform="translate(4.4633, 61.3761)">
 <text font-family="sans-serif" font-weight="bold" font-size="1.9599" text-anchor="start" fill="currentColor">
@@ -905,11 +895,6 @@ c-3 2 -5 6 -5 10s2 8 5 10l17 14c2 2 5 3 8 3s6 -1 8 -3z" fill="currentColor"/>
 <g transform="translate(4.3566, 80.5609)">
 <text font-family="sans-serif" font-weight="bold" font-size="1.9599" text-anchor="start" fill="currentColor">
 <tspan>B</tspan>
-</text>
-</g>
-<g transform="translate(1.5934, 75.1073)">
-<text font-family="serif" font-size="1.7463" text-anchor="start" fill="currentColor">
-<tspan>10</tspan>
 </text>
 </g>
 <g color="rgb(100.0000%, 100.0000%, 100.0000%)">
