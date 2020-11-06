@@ -76,6 +76,10 @@ staves = #(define-music-function (scoreOnly tabOnly) (boolean? boolean?) #{
     \staves ##f ##f
     \layout {
       \omit Voice.StringNumber
+      \context {
+        \Score
+        \omit BarNumber
+      }
     }
   }
 
@@ -101,6 +105,10 @@ staves = #(define-music-function (scoreOnly tabOnly) (boolean? boolean?) #{
     \staves ##t ##f
     \layout {
       \omit Voice.StringNumber
+      \context {
+        \Score
+        \omit BarNumber
+      }
     }
   }
 }
@@ -121,6 +129,10 @@ staves = #(define-music-function (scoreOnly tabOnly) (boolean? boolean?) #{
     \staves ##f ##t
     \layout {
       \omit Voice.StringNumber
+      \context {
+        \Score
+        \omit BarNumber
+      }
     }
   }
 }
