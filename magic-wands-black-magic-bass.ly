@@ -3,7 +3,6 @@
 \header {
   title = "Black Magic"
   composer = "Magic Wands"
-  % composer = "Chris & Dexy Valentine"
   author = \markup \fromproperty #'header:composer
   subject = \markup \concat { \fromproperty #'header:title " Bass Partition" }
   source = "Rocksmith® 2014"
@@ -16,6 +15,10 @@
 }
 
 #(set-global-staff-size 32)
+
+\paper {
+  indent = 0\mm
+}
 
 main = #(define-music-function (count) (number?) #{
   \repeat volta #count {
@@ -45,7 +48,6 @@ song = {
 
 staves = #(define-music-function (scoreOnly tabOnly) (boolean? boolean?) #{
   \new StaffGroup \with {
-    instrumentName = #"Bass"
     midiInstrument = #"electric bass (finger)"
   } <<
       #(if (not tabOnly) #{
