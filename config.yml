@@ -15,3 +15,6 @@
 - command: update
   path: repository
   value: jeandeaual/lilypond-bass-magic-wands-black-magic
+- command: update
+  path: copyright
+  value: true
