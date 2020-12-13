@@ -4,7 +4,12 @@
   title = "Black Magic"
   composer = "Magic Wands"
   author = \markup \fromproperty #'header:composer
-  subject = \markup \concat { \fromproperty #'header:title " Bass Partition" }
+  subject = \markup \concat {
+    "Bass partition for “"
+    \fromproperty #'header:title
+    "” by "
+    \fromproperty #'header:composer
+  }
   source = "Rocksmith® 2014"
   keywords = #(string-join '(
     "music"
